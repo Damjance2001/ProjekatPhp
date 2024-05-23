@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.header {
+    position: relative;
+    height: 60vh;
+    background: url("DogadjajiStranica.jpg") no-repeat center center/cover;
+}
+
+.header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.header p {
+    font-size: 1.25rem;
+} 
+
+.container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+}
